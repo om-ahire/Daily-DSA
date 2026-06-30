@@ -48,16 +48,7 @@ This repository documents my commitment to solving **at least one DSA problem ev
 
 
 
----
 
-## 📅 Progress Tracker
-
-|     Day | Problem     | Difficulty | Status |
-| ------: | ----------- | ---------- | ------ |
-| Day 001 | Concatenation of Array  | - Easy  | ✅      |
-| Day 002 | Find the Substring in Array | -    Easy      | ✅      |
-
----
 
 ## 🎯 Why This Repository?
 
